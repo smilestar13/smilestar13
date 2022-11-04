@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @smilestar13
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python at Hillel school
+- 💞️ I’m looking to work on web3
